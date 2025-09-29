@@ -1,1 +1,6 @@
+torch
+torchtext
+tqdm
+matplotlib
+scikit-learn
 
